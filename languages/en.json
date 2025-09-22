@@ -1,0 +1,67 @@
+{
+  "profile": {
+    "greeting": "Hello! I'm<br>",
+    "greeting2": "<strong>Manuel Guerrero</strong>",
+    "greeting3": "Web Developer",
+    "roll": "Effective and creative programmer & web developer.<br><br>As a freelancer I have created all kinds of web sites and applications for companies and individuals with a high rate of satisfaction from my clients.<br><br>I work with technologies such as HTML , CSS, JavaScript, Python, PHP, MySQL, React, NodeJS, Wordpress and Woocommerce.",
+    "download-btn": "Download CV"
+  },
+  "about": {
+    "me": "About <span>Me</span><span class='bg-text'>About</span>",
+    "leftH4": "About Me",
+    "leftP": "I am a Web Developer in HTML, CSS, Javascript Technology, with an efficient and creative level of work.<br />As an independent freelancer I have created a wide variety of sites and web applications for companies and individuals with a high margin of satisfaction for my clients. <br />I have knowledge in technologies such as HTML, CSS, Bootstrap, Sass, JavaScript, React, NodeJS, Python, Django, TypeScript, Java, Spring Boot, PHP, MySQL, Wordpress and Woocommerce.",
+    "leftDown": "Download CV",
+    "rightSmall1": "Complete <br /> Projects",
+    "rightSmall2": "Years of <br /> experience",
+    "rightSmall3": "Grateful <br /> Clients",
+    "rightSmall4": "Customer <br /> Reviews",
+    "stats": "My Skills",
+    "timeline": "My Timeline",
+    "tl-duration1": "2012 - Present",
+    "tl-h51": "Web Developer <span> - Freelance</span>",
+    "tl-p1": "I have worked on various projects, from websites to web applications for companies and individuals with a High margin of satisfaction from my clients.",
+    "tl-duration2": "2013 - 2015",
+    "tl-h52": "Project E-Commerce <span> - GlobalInstaller.com</span>",
+    "tl-p2": "Online store of lighting items and dry construction for the home (Drywall and PVC).<br /> Online sales, web development and website maintenance.",
+    "tl-duration3": "2016 - Present",
+    "tl-h53": "Marketing & Web Development <span> - Maestristas.com</span>",
+    "tl-p3": "Digital marketing entrepreneurship project and website development.<br /> Digital marketing service and web development for SMEs.",
+    "tl-duration4": "2020-Jan - 2021-Dec",
+    "tl-h54": "Web Development <span> - doitpossible.es</span>",
+    "tl-p4": "Front-end development, WordPress cms, Woocommerce, Elementor.<br /> Websites, Stores, MarketPlaces, etc.",
+    "tl-duration5": "2021-Feb - 2021-Dec",
+    "tl-h55": "Software Development <span> - UNAB</span>",
+    "tl-p5": "Professional Technician and Diplomas in Programming and Software Development.<br /> Autonomous University of Bucaramanga & ICT Ministry - Colombia.",
+    "tl-duration6": "2018 - 2022",
+    "tl-h56": "Web Development <span> - Virtual Certification",
+    "tl-p6": "Professional Certificates in Programming and Web Development on Virtual Platforms."
+  },
+  "portfolio": {
+    "portf-h2": "My <span>Portfolio</span><span class='bg-text'>Jobs</span>",
+    "portf-p": "Here you can see some of my work done in different technologies.",
+    "portf-h3": "Project Link"
+  },
+  "blogs": {
+    "blog-h2": "My Blog <span>Demos</span><span class='bg-text'>Blog</span>"
+  },
+  "contact": {
+    "cont-h2": "Contact <span>Me</span><span class='bg-text'>Contact</span>",
+    "cont-h4": "You can contact me HERE",
+    "cont-p1": "You can contact me through any of the following ways.<br>I am always looking for new challenges and opportunities, either to work by employment contract or if you want my support in your project or your entrepreneurship.<br><br>",
+    "cont-h3": "'We are really happy when we do what we love'.",
+    "cont-down": "Download CV",
+    "cont-loc1": "Location",
+    "cont-loc2": ": Bogotá, Colombia",
+    "cont-mail1": "E-mail",
+    "cont-mail2": ": mguerrerom715@gmail.com",
+    "cont-career": "Web Developer",
+    "cont-univ": "Autonomous University of Bucaramanga UNAB",
+    "cont-lang": "Languages",
+    "cont-lang2": ": Spanish & English",
+    "phone": "Phone Number",
+    "cont-form1": "<input type='text' required placeholder='NAME'> <input type='email' required placeholder='EMAIL'>",
+    "cont-form2": "<input type='text' required placeholder='SUBJECT'",
+    "cont-form3": "<textarea name='' id='' cols='15' rows='8' placeholder='Message...'></textarea>", 
+    "cont-send": "Send"
+  }
+}

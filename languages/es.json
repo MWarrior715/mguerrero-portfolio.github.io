@@ -1,0 +1,67 @@
+{
+  "profile": {
+    "greeting": "¡Hola! Yo Soy<br>",
+    "greeting2": "<strong>Manuel Guerrero</strong>",
+    "greeting3": "Desarrollador Web",
+    "roll": "Programador & Desarrollador web eficaz y creativo.<br><br>Como freelancer he creado toda clase de sitios y aplicaciones web para empresas y personas con un Alto margen de satisfacción de mis clientes.<br><br>Trabajo con tecnologías como HTML, CSS, JavaScript, Python, PHP, MySQL, React, NodeJS, Wordpress y Woocommerce.",
+    "download-btn": "Descargar CV"
+  },
+  "about": {
+    "me": "Mis <span>Resultados</span><span class='bg-text'>Perfil</span>",
+    "leftH4": "Acerca de Mi",
+    "leftP": "Soy Desarrollador Web en Tecnología HTML, CSS, Javascript, con un nivel de trabajo eficaz y creativo.<br />Como independiente freelancer he creado Gran variedad de sitios y aplicaciones web para empresas y particulares con un Alto margen de satisfacción de mis clientes.<br />Tengo conocimiento en tecnologías como HTML, CSS, Bootstrap, Sass, JavaScript, React, NodeJS, Python, Django, TypeScript, Java, Spring Boot, PHP, MySQL, Wordpress y Woocommerce.",
+    "leftDown": "Descargar CV",
+    "rightSmall1": "Proyectos <br /> Completos",
+    "rightSmall2": "Años de <br /> Experiencia",
+    "rightSmall3": "Clientes <br /> Agradecidos",
+    "rightSmall4": "Valoraciones de <br /> Clientes",
+    "stats": "Mis Habilidades",
+    "timeline": "Mi Linea de Tiempo",
+    "tl-duration1": "2012 - Presente",
+    "tl-h51": "Desarrollador Web <span> - Freelance</span>",
+    "tl-p1": "He trabajado en varios proyectos, desde sitios web hasta aplicaciones web para empresas y personas con un Alto margen de satisfacción de mis clientes.",
+    "tl-duration2": "2013 - 2015",
+    "tl-h52": "Proyecto E-Commerce <span> - GlobalInstaller.com</span>",
+    "tl-p2": "Tienda OnLine de articulos de iluminación y construcción en seco para el hogar (Drywall y PVC).<br /> Ventas Online, desarrollo y mantenimiento del sitio web.",
+    "tl-duration3": "2016 - Presente",
+    "tl-h53": "Marketing & Desarrollo web <span> - Maestristas.com</span>",
+    "tl-p3": "Proyecto de emprendimiento de marketing y desarrollo de sitios web.<br /> Servicio de marketing digital y Desarrollo web para pymes.",
+    "tl-duration4": "2020-Ene - 2021-Dic",
+    "tl-h54": "Desarrollador Web <span> - doitpossible.es</span>",
+    "tl-p4": "Desarrollo Front-end, cms WordPress, Woocommerce, Elementor.<br /> Sitios Web, Tiendas, MarketPlaces, etc.",
+    "tl-duration5": "2021-Feb - 2021-Dic",
+    "tl-h55": "Desarrollo Software <span> - UNAB</span>",
+    "tl-p5": "Técnico Profesional y Diplomados en programación y Desarrollo de software.<br /> Universidad Autonoma de Bucaramanga & Ministerio de las TIC - Colombia.",
+    "tl-duration6": "2018 - 2022",
+    "tl-h56": "Desarrollador Web <span> - Certificación Virtual",
+    "tl-p6": "Certificados Profesionales en Programación & Desarrollo web en plataformas Virtuales."
+  },
+  "portfolio": {
+    "portf-h2": "Mi <span>Portafolio</span><span class='bg-text'>Trabajos</span>",
+    "portf-p": "Aqui puedes ver algunos de mis trabajos realizados en diferentes tecnologías.",
+    "portf-h3": "Link del Proyecto"
+  },
+  "blogs": {
+    "blog-h2": "Mi Blog <span> Demos</span><span class='bg-text'>Blog</span>"
+  },
+  "contact": {
+    "cont-h2": "Líneas de <span>Contacto</span><span class='bg-text'>Contacto</span>",
+    "cont-h4": "Puedes contactarme AQUÍ",
+    "cont-p1": "Puesdes contactarme a través de cualquiera de los siguientes medios.<br>Estoy siempre en busca de nuevos retos y oportunidades, bien sea para trabajar por contrato laboral o si deseas mi apoyo en tu proyecto o emprendimiento.<br><br>",
+    "cont-h3": "'Somos realmente felices cuando hacemos aquello que amamos'.",
+    "cont-down": "Descargar CV",
+    "cont-loc1": "Ubicación",
+    "cont-loc2": ": Bogotá, Colombia",
+    "cont-mail1": "E-mail",
+    "cont-mail2": ": mguerrerom715@gmail.com",
+    "cont-career": "Desarrollador Web",
+    "cont-univ": "Universidad Autonoma de Bucaramanga UNAB",
+    "cont-lang": "Idiomas",
+    "cont-lang2": ": Español, Inglés",
+    "phone": "Número Móvil",
+    "cont-form1": "<input type='text' required placeholder='NOMBRE'> <input type='email' required placeholder='EMAIL'>",
+    "cont-form2": "<input type='text' required placeholder='ASUNTO'",
+    "cont-form3": "<textarea name='' id='' cols='15' rows='8' placeholder='Mensaje...'></textarea>",
+    "cont-send": "Enviar"
+  }
+}
